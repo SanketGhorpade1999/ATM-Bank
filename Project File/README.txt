@@ -1,10 +1,2 @@
-Bank Management System (Code For Interview)
-
-
-
-Please contribute your Project Files/Other Documentation to help others
-
-
-Subscribe to this channel
-Code for Interview
-(https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ)
+Bank Management System Using Java Swings, Intellij idea, JSP, MySQL Workbench 
+https://youtube.com/playlist?list=PL_6klLfS1WqG8mRCW5a-bIViq1DbzQkp9 for learn
